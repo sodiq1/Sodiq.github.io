@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.nav{
+    
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    list-style-type: none;
+    text-align: center;
+}
+h3{
+ 
+    display: inline-block;
+}
+.icon ul li{
+    display: inline-block;
+    padding: 50px;
+    list-style-type: none;
+    text-align: center;
+}
